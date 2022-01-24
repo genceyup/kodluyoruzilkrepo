@@ -1,5 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+![my projects pic](kodluy.jpg)
+
 
 ## Installation
 Öncelikle projeyi clonelayın.
